@@ -35,3 +35,4 @@ Crear una clase Perro:
 Atributos: nombre, raza
 Método: ladrar() → "Guau! Guau!"
 Crear 2 objetos y ejecutar el método
+*/
