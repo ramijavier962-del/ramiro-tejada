@@ -27,11 +27,11 @@ public class Inovacion {
     
     // Métodos
     void cool() {
-        System.out.println(nombre + " "+edad+" "+altura+" "+materia+" profe goood");
+        System.out.println(nombre + " "+"edad:"+edad+" "+"altura:"+altura+" "+"materia:"+materia+" profe goood");
     }
 
     void badd() {
-        System.out.println(nombre + " "+edad+" "+altura+" "+materia+" profe estrictooo");
+        System.out.println(nombre + " "+"edad:"+edad+" "+"altura:"+altura+" "+"materia:"+materia+" profe estrictooo");
     }
     
 
