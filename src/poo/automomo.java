@@ -30,7 +30,7 @@ public class automomo {
            System.out.println("el auto se cago de miedo: velocidad actual: "+velocidad+"km/h");
            
        }
-           
+          
     //    System.out.println(nombre + " "+"edad:"+edad+" "+"altura:"+altura+" "+"materia:"+materia+" profe goood");
    }
 }
